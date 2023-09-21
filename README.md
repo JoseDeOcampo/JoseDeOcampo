@@ -30,6 +30,8 @@ e.)after running “git status” the staging area should be clear.
 5.) Pull request is used to allow developers to propose changes to a repository hosted. Its primarily used for collaboration, code review, and discussion before incorporating changes into the main codebase.
 
 <!---
+
+
 JoseDeOcampo/JoseDeOcampo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
