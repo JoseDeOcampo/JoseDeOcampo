@@ -34,4 +34,8 @@ e.)after running “git status” the staging area should be clear.
 
 JoseDeOcampo/JoseDeOcampo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+--->!
+[2020-08-15](https://github.com/JoseDeOcampo/JoseDeOcampo/assets/144511160/c533537c-60c5-47f4-9d0c-e17d9671f766)
+
+https://www.youtube.com/watch?v=i4JGSpVBEJU&ab_channel=Jaeguchi
+
