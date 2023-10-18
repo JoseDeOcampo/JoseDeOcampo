@@ -47,9 +47,9 @@ https://www.youtube.com/watch?v=i4JGSpVBEJU&ab_channel=Jaeguchi
 ## Answers: 
 
 1. pwd (print working directory)
-2.) To create a new directory in Linux, you can use the mkdir command
-3.) The ls command is used to list files. "ls" on its own lists all files in the current directory except for hidden files
-4.) you use "cd.." command to go forward. "cd-" to go backward
-5.) you use the "cp" command. for instance , i would put cp [file/directory-sources] [destination]. file/directory-source for which file i want to copy and destination for where i want to put the file in
+2. To create a new directory in Linux, you can use the mkdir command
+3. The ls command is used to list files. "ls" on its own lists all files in the current directory except for hidden files
+4. you use "cd.." command to go forward. "cd-" to go backward
+5. you use the "cp" command. for instance , i would put cp [file/directory-sources] [destination]. file/directory-source for which file i want to copy and destination for where i want to put the file in
 
 C:\Users\joser\OneDrive\Pictures\Screenshots\Screenshot 2023-09-22 164950.png
