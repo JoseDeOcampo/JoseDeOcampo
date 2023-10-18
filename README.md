@@ -53,3 +53,16 @@ https://www.youtube.com/watch?v=i4JGSpVBEJU&ab_channel=Jaeguchi
 5. you use the "cp" command. for instance , i would put cp [file/directory-sources] [destination]. file/directory-source for which file i want to copy and destination for where i want to put the file in
 
 C:\Users\joser\OneDrive\Pictures\Screenshots\Screenshot 2023-09-22 164950.png
+
+
+
+
+# <JoseDeOcampo> Module Three
+
+## Answers:
+
+1.) In Python, to add a single-line comment, you use the # symbol
+2.) In C++, to add a single-line comment, you use the // symbols.
+3.) In Python, to add a multi-line comment, you enclose the comment between # symbol.
+4.) In C++, to add a multi-line comment, you enclose the comment between /* ........ */
+
