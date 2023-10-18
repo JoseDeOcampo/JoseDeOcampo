@@ -1,7 +1,7 @@
-- JoseDeOcampo Module One
-- 
-- Answers:
-- 
+# <JoseDeOcampo> Module One
+
+## Answers:
+
 1.) to track and manage changes to files and software code over time. It provides a structured and organized way for individuals or teams to collaborate on projects
 2.) To create a branch you to us the command “git branch branch-name” hit enter. The branch should say (master) on top. So the new branch is created. And to check out the branch you have to use “git checkout branch-name”. hit enter and the branch will change from (master) to branch-name
 3.) A git repository is cloned to provide an exact copy of all files and modifications present at the moment of the clone. The majority of the time, we'll be working on a remote repository (commonly referred to as a remote), which is a git repository that's located on the internet or another network that's
@@ -29,7 +29,7 @@ e.)after running “git status” the staging area should be clear.
 
 5.) Pull request is used to allow developers to propose changes to a repository hosted. Its primarily used for collaboration, code review, and discussion before incorporating changes into the main codebase.
 
-<!---
+<!
 
 
 JoseDeOcampo/JoseDeOcampo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,3 +39,17 @@ You can click the Preview link to take a look at your changes.
 
 https://www.youtube.com/watch?v=i4JGSpVBEJU&ab_channel=Jaeguchi
 
+
+
+
+# <JoseDeOcampo> Module Two
+
+## Answers: 
+
+1. pwd (print working directory)
+2.) To create a new directory in Linux, you can use the mkdir command
+3.) The ls command is used to list files. "ls" on its own lists all files in the current directory except for hidden files
+4.) you use "cd.." command to go forward. "cd-" to go backward
+5.) you use the "cp" command. for instance , i would put cp [file/directory-sources] [destination]. file/directory-source for which file i want to copy and destination for where i want to put the file in
+
+C:\Users\joser\OneDrive\Pictures\Screenshots\Screenshot 2023-09-22 164950.png
